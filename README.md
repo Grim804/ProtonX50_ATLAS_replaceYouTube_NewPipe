@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1CoOwTAyCq7im1iE5ofXB25KAS24BsGI4/view?usp=share
 6.	IHU will show “Wireless Charging” screen. Please wait 2-5 minutes.
     <br>
     _*if the “Wireless Charging” screen doesn't show, means the script is not working. Please check your steps_
-7.	IHU will now restart and optimizing apps. This might take up to 20 minites.
+7.	IHU will now restart and optimizing apps. This might take up to 20 minutes.
 8.	After IHU started, NewPipe should be installed and YouTube should have been removed.
 
 ---
